@@ -63,8 +63,7 @@ The analysis was performed using SQL for data extraction and Microsoft Excel for
 ---
 
 ## 📷 Dashboard Preview
-
-Dashboard screenshot will be added soon.
+![Pizza Sales Dashboard](dashboard.png)
 
 ---
 
@@ -95,6 +94,3 @@ Pizza-Sales-Analysis-Dashboard
 
 ---
 
-## 👨‍💻 Author
-
-Rohit Boora
